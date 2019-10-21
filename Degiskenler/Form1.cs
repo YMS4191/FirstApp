@@ -16,6 +16,7 @@ namespace Degiskenler
         {
             InitializeComponent();
             // Yorum alanı ekledim
+            // Alanları düzenledim
         } 
     }
 }
