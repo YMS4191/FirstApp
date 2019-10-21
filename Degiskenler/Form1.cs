@@ -15,6 +15,7 @@ namespace Degiskenler
         public Form1()
         {
             InitializeComponent();
+            // Yorum alanı ekledim
         } 
     }
 }
